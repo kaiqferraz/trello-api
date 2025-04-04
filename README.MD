@@ -30,6 +30,11 @@ cd trello-api
 npm run cypress:open
 ```
 
+## Documentação API
+```
+https://developer.atlassian.com/cloud/trello/rest/api-group-actions/#api-group-actions
+```
+🔍
 ## Cenários de Teste Implementados 🔍
 
 _getName:_ Validar nome da estrtutura list na API.
