@@ -32,7 +32,7 @@ npm run cypress:open
 
 ## Cenários de Teste Implementados 🔍
 
-_Login:_ Validar nome da estrtutura list na API.
+_getName:_ Validar nome da estrtutura list na API.
 
 Autor
 Kaique Ferraz da Silva
